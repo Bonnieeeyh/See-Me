@@ -1,0 +1,1686 @@
+{
+    "questions": [
+        {
+            "id": 1,
+            "text": "我不是一個容易憂慮的人",
+            "is_reversed": false,
+            "scoring_method": "normal"
+        },
+        {
+            "id": 2,
+            "text": "我的確喜歡我所遇見的大部分人",
+            "is_reversed": false,
+            "scoring_method": "normal"
+        },
+        {
+            "id": 3,
+            "text": "我的想像力相當豐富",
+            "is_reversed": false,
+            "scoring_method": "normal"
+        },
+        {
+            "id": 4,
+            "text": "我認為人們表面上說得漂亮，內心則另有所圖",
+            "is_reversed": false,
+            "scoring_method": "normal"
+        },
+        {
+            "id": 5,
+            "text": "我做事有效果，也有效率",
+            "is_reversed": false,
+            "scoring_method": "normal"
+        },
+        {
+            "id": 6,
+            "text": "我常因別人對我的做法而感到憤怒",
+            "is_reversed": false,
+            "scoring_method": "normal"
+        },
+        {
+            "id": 7,
+            "text": "我喜歡做那種可由我單獨幹而不受別人干擾的工作",
+            "is_reversed": false,
+            "scoring_method": "normal"
+        },
+        {
+            "id": 8,
+            "text": "我對美感和藝術感等方面不感興趣",
+            "is_reversed": false,
+            "scoring_method": "normal"
+        },
+        {
+            "id": 9,
+            "text": "我並不狡猾",
+            "is_reversed": false,
+            "scoring_method": "normal"
+        },
+        {
+            "id": 10,
+            "text": "我不介意房間有點亂",
+            "is_reversed": false,
+            "scoring_method": "normal"
+        },
+        {
+            "id": 11,
+            "text": "我很少感到孤獨和憂鬱",
+            "is_reversed": false,
+            "scoring_method": "normal"
+        },
+        {
+            "id": 12,
+            "text": "我具有領導才幹，喜歡表達和堅持實行自己的主張",
+            "is_reversed": false,
+            "scoring_method": "normal"
+        },
+        {
+            "id": 13,
+            "text": "我體驗到許多不同的情緒和感受",
+            "is_reversed": false,
+            "scoring_method": "normal"
+        },
+        {
+            "id": 14,
+            "text": "別人並不覺得我慷慨",
+            "is_reversed": false,
+            "scoring_method": "normal"
+        },
+        {
+            "id": 15,
+            "text": "除非我真的病了，我才會請一天假",
+            "is_reversed": false,
+            "scoring_method": "normal"
+        },
+        {
+            "id": 16,
+            "text": "與別人交往時，我時常害怕出一些丟人現眼或笨拙的差錯",
+            "is_reversed": false,
+            "scoring_method": "normal"
+        },
+        {
+            "id": 17,
+            "text": "我更傾向從事慢節奏的工作和娛樂活動",
+            "is_reversed": false,
+            "scoring_method": "normal"
+        },
+        {
+            "id": 18,
+            "text": "我做事總是有一定的方式，我不喜歡改變我的做事習慣",
+            "is_reversed": false,
+            "scoring_method": "normal"
+        },
+        {
+            "id": 19,
+            "text": "當我被別人侮辱時，我儘量寬恕和忘記",
+            "is_reversed": false,
+            "scoring_method": "normal"
+        },
+        {
+            "id": 20,
+            "text": "我有些鬆懈，感覺缺乏前進的動力",
+            "is_reversed": false,
+            "scoring_method": "normal"
+        },
+        {
+            "id": 21,
+            "text": "我極少過多沉溺於任何事情",
+            "is_reversed": false,
+            "scoring_method": "normal"
+        },
+        {
+            "id": 22,
+            "text": "我喜歡去熱鬧的場合",
+            "is_reversed": false,
+            "scoring_method": "normal"
+        },
+        {
+            "id": 23,
+            "text": "我對理論和抽象的觀念很感興趣",
+            "is_reversed": false,
+            "scoring_method": "normal"
+        },
+        {
+            "id": 24,
+            "text": "我不介意去誇耀自己的才華和成就",
+            "is_reversed": false,
+            "scoring_method": "normal"
+        },
+        {
+            "id": 25,
+            "text": "我善於計劃時間安排要做的事情，以至能夠及時完成工作",
+            "is_reversed": false,
+            "scoring_method": "normal"
+        },
+        {
+            "id": 26,
+            "text": "我經常感到無能為力",
+            "is_reversed": false,
+            "scoring_method": "normal"
+        },
+        {
+            "id": 27,
+            "text": "我從没有因為開心而整個人歡呼雀躍",
+            "is_reversed": false,
+            "scoring_method": "normal"
+        },
+        {
+            "id": 28,
+            "text": "我認為在道德問題上做决定時，我們應遵從宗教權威的判斷",
+            "is_reversed": false,
+            "scoring_method": "normal"
+        },
+        {
+            "id": 29,
+            "text": "我認為領導們在制定政策時，應更多地考慮到民衆的生活",
+            "is_reversed": false,
+            "scoring_method": "normal"
+        },
+        {
+            "id": 30,
+            "text": "在過去的日子裏，我做過一些很愚蠢的事",
+            "is_reversed": false,
+            "scoring_method": "normal"
+        },
+        {
+            "id": 31,
+            "text": "我容易受到驚嚇",
+            "is_reversed": false,
+            "scoring_method": "normal"
+        },
+        {
+            "id": 32,
+            "text": "與別人聊天並不會使我得到許多的樂趣",
+            "is_reversed": false,
+            "scoring_method": "normal"
+        },
+        {
+            "id": 33,
+            "text": "我儘量使自己的思想合乎現實而避免幻想",
+            "is_reversed": false,
+            "scoring_method": "normal"
+        },
+        {
+            "id": 34,
+            "text": "我覺得大部分人基本上是心懷善意的",
+            "is_reversed": false,
+            "scoring_method": "normal"
+        },
+        {
+            "id": 35,
+            "text": "我覺得與我周圍的人相比，我的能力不夠强",
+            "is_reversed": false,
+            "scoring_method": "normal"
+        },
+        {
+            "id": 36,
+            "text": "我是一個性情平和的人",
+            "is_reversed": false,
+            "scoring_method": "normal"
+        },
+        {
+            "id": 37,
+            "text": "我喜歡很多人在我身邊",
+            "is_reversed": false,
+            "scoring_method": "normal"
+        },
+        {
+            "id": 38,
+            "text": "當我聽音樂時，我有時會完全沉浸在其中",
+            "is_reversed": false,
+            "scoring_method": "normal"
+        },
+        {
+            "id": 39,
+            "text": "如有必要，我願意操縱別人以得到我所想得到的",
+            "is_reversed": false,
+            "scoring_method": "normal"
+        },
+        {
+            "id": 40,
+            "text": "我通常保持我的物品乾淨、整潔",
+            "is_reversed": false,
+            "scoring_method": "normal"
+        },
+        {
+            "id": 41,
+            "text": "有時我感到自己毫無價值",
+            "is_reversed": false,
+            "scoring_method": "normal"
+        },
+        {
+            "id": 42,
+            "text": "我覺得要控制一種局面並非易事",
+            "is_reversed": false,
+            "scoring_method": "normal"
+        },
+        {
+            "id": 43,
+            "text": "我很少有強烈的情緒體驗",
+            "is_reversed": false,
+            "scoring_method": "normal"
+        },
+        {
+            "id": 44,
+            "text": "我常將自己的事暫擱一旁而去幫助別人",
+            "is_reversed": false,
+            "scoring_method": "normal"
+        },
+        {
+            "id": 45,
+            "text": "我有時沒有像我本應該的那樣可靠和值得信賴",
+            "is_reversed": false,
+            "scoring_method": "normal"
+        },
+        {
+            "id": 46,
+            "text": "在上司與權威面前，我不會感到不自在",
+            "is_reversed": false,
+            "scoring_method": "normal"
+        },
+        {
+            "id": 47,
+            "text": "我的生活節奏很快",
+            "is_reversed": false,
+            "scoring_method": "normal"
+        },
+        {
+            "id": 48,
+            "text": "我經常改變我做事的方式來嘗試不同的東西",
+            "is_reversed": false,
+            "scoring_method": "normal"
+        },
+        {
+            "id": 49,
+            "text": "如果有人向我發出挑戰，我會立即還擊",
+            "is_reversed": false,
+            "scoring_method": "normal"
+        },
+        {
+            "id": 50,
+            "text": "我不斷鞭策自己去達成想要的事",
+            "is_reversed": false,
+            "scoring_method": "normal"
+        },
+        {
+            "id": 51,
+            "text": "我感到難以克制我對某些事情的欲望",
+            "is_reversed": false,
+            "scoring_method": "normal"
+        },
+        {
+            "id": 52,
+            "text": "我不會喜歡去一個熱鬧喧囂的大都市渡假",
+            "is_reversed": false,
+            "scoring_method": "normal"
+        },
+        {
+            "id": 53,
+            "text": "我覺得哲學性的爭論很乏味",
+            "is_reversed": false,
+            "scoring_method": "normal"
+        },
+        {
+            "id": 54,
+            "text": "我傾向低估我自己以及我的成就",
+            "is_reversed": false,
+            "scoring_method": "normal"
+        },
+        {
+            "id": 55,
+            "text": "我很難讓自己做我應該做的事",
+            "is_reversed": false,
+            "scoring_method": "normal"
+        },
+        {
+            "id": 56,
+            "text": "我的情緒相當穩定",
+            "is_reversed": false,
+            "scoring_method": "normal"
+        },
+        {
+            "id": 57,
+            "text": "我有時會感到極其快樂和欣喜若狂",
+            "is_reversed": false,
+            "scoring_method": "normal"
+        },
+        {
+            "id": 58,
+            "text": "我認為法律和社會政策應該及時修改以反映變化著的世界之所需",
+            "is_reversed": false,
+            "scoring_method": "normal"
+        },
+        {
+            "id": 59,
+            "text": "我並不同情行乞的人",
+            "is_reversed": false,
+            "scoring_method": "normal"
+        },
+        {
+            "id": 60,
+            "text": "我很少做出倉促的决定",
+            "is_reversed": false,
+            "scoring_method": "normal"
+        },
+        {
+            "id": 61,
+            "text": "我很少感到恐懼或焦慮",
+            "is_reversed": false,
+            "scoring_method": "normal"
+        },
+        {
+            "id": 62,
+            "text": "我對朋友有深厚的感情依戀",
+            "is_reversed": false,
+            "scoring_method": "normal"
+        },
+        {
+            "id": 63,
+            "text": "我喜歡沉浸在幻想之中，並探詢它們所有的可能性，任其在腦海中發展",
+            "is_reversed": false,
+            "scoring_method": "normal"
+        },
+        {
+            "id": 64,
+            "text": "如果你允許，大多數人都會利用你",
+            "is_reversed": false,
+            "scoring_method": "normal"
+        },
+        {
+            "id": 65,
+            "text": "我儘量掌握新信息，並通常能作出明智的决定",
+            "is_reversed": false,
+            "scoring_method": "normal"
+        },
+        {
+            "id": 66,
+            "text": "我容易激動，性情急躁",
+            "is_reversed": false,
+            "scoring_method": "normal"
+        },
+        {
+            "id": 67,
+            "text": "我通常喜歡單獨工作",
+            "is_reversed": false,
+            "scoring_method": "normal"
+        },
+        {
+            "id": 68,
+            "text": "我很少或不會因詩詞而産生什麽感觸",
+            "is_reversed": false,
+            "scoring_method": "normal"
+        },
+        {
+            "id": 69,
+            "text": "即使是我想欺騙別人，我也做不出來",
+            "is_reversed": false,
+            "scoring_method": "normal"
+        },
+        {
+            "id": 70,
+            "text": "我不是一個做事有條不紊的人",
+            "is_reversed": false,
+            "scoring_method": "normal"
+        },
+        {
+            "id": 71,
+            "text": "我很少感到憂鬱或沮喪",
+            "is_reversed": false,
+            "scoring_method": "normal"
+        },
+        {
+            "id": 72,
+            "text": "我常常在我所在的團體中擔任領導責任",
+            "is_reversed": false,
+            "scoring_method": "normal"
+        },
+        {
+            "id": 73,
+            "text": "奇特的事情——如某些氣味或遠方的地名——能激起我強烈的感受",
+            "is_reversed": false,
+            "scoring_method": "normal"
+        },
+        {
+            "id": 74,
+            "text": "有人覺得我冷酷、精於計算",
+            "is_reversed": false,
+            "scoring_method": "normal"
+        },
+        {
+            "id": 75,
+            "text": "我通常會很快如數地還清我的債務",
+            "is_reversed": false,
+            "scoring_method": "normal"
+        },
+        {
+            "id": 76,
+            "text": "我非常在意別人對我的看法",
+            "is_reversed": false,
+            "scoring_method": "normal"
+        },
+        {
+            "id": 77,
+            "text": "我並不像其他人那樣精力充沛",
+            "is_reversed": false,
+            "scoring_method": "normal"
+        },
+        {
+            "id": 78,
+            "text": "與一個從未去過的地方相比，我更願去一個我曾去過並熟悉的地方渡假",
+            "is_reversed": false,
+            "scoring_method": "normal"
+        },
+        {
+            "id": 79,
+            "text": "即使是在理當發怒的情况下，我也會為表達我的憤怒而猶豫",
+            "is_reversed": false,
+            "scoring_method": "normal"
+        },
+        {
+            "id": 80,
+            "text": "每當我開始一項新的自我改進計劃後，我總是半途而廢",
+            "is_reversed": false,
+            "scoring_method": "normal"
+        },
+        {
+            "id": 81,
+            "text": "我對於抵抗誘惑並沒有什麽困難",
+            "is_reversed": false,
+            "scoring_method": "normal"
+        },
+        {
+            "id": 82,
+            "text": "我喜歡“過山車”的刺激",
+            "is_reversed": false,
+            "scoring_method": "normal"
+        },
+        {
+            "id": 83,
+            "text": "我喜歡\"智力游戲\"類型或解決某種難題的遊戲",
+            "is_reversed": false,
+            "scoring_method": "normal"
+        },
+        {
+            "id": 84,
+            "text": "我的能力並没有得到足夠的認可",
+            "is_reversed": false,
+            "scoring_method": "normal"
+        },
+        {
+            "id": 85,
+            "text": "一旦我開始一項工作，我差不多總是會將它幹完",
+            "is_reversed": false,
+            "scoring_method": "normal"
+        },
+        {
+            "id": 86,
+            "text": "我在大量壓力的情况下，有時感到精神像是要崩潰一樣",
+            "is_reversed": false,
+            "scoring_method": "normal"
+        },
+        {
+            "id": 87,
+            "text": "我很少用“極好的”或“精采”這類的字眼來表達我的體驗",
+            "is_reversed": false,
+            "scoring_method": "normal"
+        },
+        {
+            "id": 88,
+            "text": "我認為作為成年人仍然缺乏堅定的信念是有問題的",
+            "is_reversed": false,
+            "scoring_method": "normal"
+        },
+        {
+            "id": 89,
+            "text": "我認為為了幫助窮人和老年人，我們怎樣做也不算多",
+            "is_reversed": false,
+            "scoring_method": "normal"
+        },
+        {
+            "id": 90,
+            "text": "我經常憑一時衝動做事",
+            "is_reversed": false,
+            "scoring_method": "normal"
+        },
+        {
+            "id": 91,
+            "text": "我常常擔心事情可能會出錯",
+            "is_reversed": false,
+            "scoring_method": "normal"
+        },
+        {
+            "id": 92,
+            "text": "身邊的人認為我對他們的生活不夠感興趣",
+            "is_reversed": false,
+            "scoring_method": "normal"
+        },
+        {
+            "id": 93,
+            "text": "對我來說，讓思想無拘無束地漫游是一件困難的事",
+            "is_reversed": false,
+            "scoring_method": "normal"
+        },
+        {
+            "id": 94,
+            "text": "我往往把別人設想得盡可能好",
+            "is_reversed": false,
+            "scoring_method": "normal"
+        },
+        {
+            "id": 95,
+            "text": "我似乎在任何事情上都没有完全幹成功過",
+            "is_reversed": false,
+            "scoring_method": "normal"
+        },
+        {
+            "id": 96,
+            "text": "我一般很難發怒",
+            "is_reversed": false,
+            "scoring_method": "normal"
+        },
+        {
+            "id": 97,
+            "text": "我享受人多的聚會",
+            "is_reversed": false,
+            "scoring_method": "normal"
+        },
+        {
+            "id": 98,
+            "text": "當我閱讀一首詩或觀看一件藝術品時，我有時會感到興奮或驚喜",
+            "is_reversed": false,
+            "scoring_method": "normal"
+        },
+        {
+            "id": 99,
+            "text": "有時我會奉承別人，這樣他們就會按照我的意願行事",
+            "is_reversed": false,
+            "scoring_method": "normal"
+        },
+        {
+            "id": 100,
+            "text": "我喜歡把東西放在固定的位置，以便我確知它們在哪裏",
+            "is_reversed": false,
+            "scoring_method": "normal"
+        },
+        {
+            "id": 101,
+            "text": "我經常在事情不順利時感到挫折並想因此而放棄",
+            "is_reversed": false,
+            "scoring_method": "normal"
+        },
+        {
+            "id": 102,
+            "text": "開會時，我通常看他人發言而自己較少開口",
+            "is_reversed": false,
+            "scoring_method": "normal"
+        },
+        {
+            "id": 103,
+            "text": "我很少會留意我在當下的情緒和感受",
+            "is_reversed": false,
+            "scoring_method": "normal"
+        },
+        {
+            "id": 104,
+            "text": "我通常盡可能體貼周到",
+            "is_reversed": false,
+            "scoring_method": "normal"
+        },
+        {
+            "id": 105,
+            "text": "當責難臨頭時，我有時會撒謊以免被責罰",
+            "is_reversed": false,
+            "scoring_method": "normal"
+        },
+        {
+            "id": 106,
+            "text": "當別人嘲笑我和開我的玩笑時，我不會感到太難堪",
+            "is_reversed": false,
+            "scoring_method": "normal"
+        },
+        {
+            "id": 107,
+            "text": "我是一個很活躍的人",
+            "is_reversed": false,
+            "scoring_method": "normal"
+        },
+        {
+            "id": 108,
+            "text": "我經常品嘗我沒吃過的和異地風味的食物",
+            "is_reversed": false,
+            "scoring_method": "normal"
+        },
+        {
+            "id": 109,
+            "text": "我有些固執，脾氣較倔",
+            "is_reversed": false,
+            "scoring_method": "normal"
+        },
+        {
+            "id": 110,
+            "text": "我總是竭力工作以實現我的目標",
+            "is_reversed": false,
+            "scoring_method": "normal"
+        },
+        {
+            "id": 111,
+            "text": "我有時會因吃得過多而弄得腸胃出毛病",
+            "is_reversed": false,
+            "scoring_method": "normal"
+        },
+        {
+            "id": 112,
+            "text": "我不願看那些令人震驚或恐怖的電影",
+            "is_reversed": false,
+            "scoring_method": "normal"
+        },
+        {
+            "id": 113,
+            "text": "我没有興趣思索宇宙的本質或人類的處境",
+            "is_reversed": false,
+            "scoring_method": "normal"
+        },
+        {
+            "id": 114,
+            "text": "我並沒有那種比別人要優越的感覺，不管自身條件如何",
+            "is_reversed": false,
+            "scoring_method": "normal"
+        },
+        {
+            "id": 115,
+            "text": "我很容易被很多無聊的小事情分散注意力",
+            "is_reversed": false,
+            "scoring_method": "normal"
+        },
+        {
+            "id": 116,
+            "text": "我在緊急情况下仍能保持頭腦冷靜",
+            "is_reversed": false,
+            "scoring_method": "normal"
+        },
+        {
+            "id": 117,
+            "text": "我有時會充滿快樂",
+            "is_reversed": false,
+            "scoring_method": "normal"
+        },
+        {
+            "id": 118,
+            "text": "我覺得我胸襟寬闊，並能容忍別人的生活方式",
+            "is_reversed": false,
+            "scoring_method": "normal"
+        },
+        {
+            "id": 119,
+            "text": "不用太擔心無家可歸的人",
+            "is_reversed": false,
+            "scoring_method": "normal"
+        },
+        {
+            "id": 120,
+            "text": "我在採取行動之前往往要先考慮後果",
+            "is_reversed": false,
+            "scoring_method": "normal"
+        },
+        {
+            "id": 121,
+            "text": "我很少為將來的事情擔憂",
+            "is_reversed": false,
+            "scoring_method": "normal"
+        },
+        {
+            "id": 122,
+            "text": "我確實喜歡與別人交談",
+            "is_reversed": false,
+            "scoring_method": "normal"
+        },
+        {
+            "id": 123,
+            "text": "我常喜歡幻想",
+            "is_reversed": false,
+            "scoring_method": "normal"
+        },
+        {
+            "id": 124,
+            "text": "當別人為我做一些好事時，我會懷疑他們是否出於真心",
+            "is_reversed": false,
+            "scoring_method": "normal"
+        },
+        {
+            "id": 125,
+            "text": "我為自己對事情有恰當的判斷而感到自豪",
+            "is_reversed": false,
+            "scoring_method": "normal"
+        },
+        {
+            "id": 126,
+            "text": "我常常討厭那些我不得不與之打交道的人",
+            "is_reversed": false,
+            "scoring_method": "normal"
+        },
+        {
+            "id": 127,
+            "text": "我儘量避開人群",
+            "is_reversed": false,
+            "scoring_method": "normal"
+        },
+        {
+            "id": 128,
+            "text": "看芭蕾舞或現代舞蹈使我感到乏味",
+            "is_reversed": false,
+            "scoring_method": "normal"
+        },
+        {
+            "id": 129,
+            "text": "我會特別不願意被別人認為是一個虛僞的人",
+            "is_reversed": false,
+            "scoring_method": "normal"
+        },
+        {
+            "id": 130,
+            "text": "我似乎總不能把事情安排得井井有條",
+            "is_reversed": false,
+            "scoring_method": "normal"
+        },
+        {
+            "id": 131,
+            "text": "當事情出問題時，我喜歡責怪自己",
+            "is_reversed": false,
+            "scoring_method": "normal"
+        },
+        {
+            "id": 132,
+            "text": "碰到要做决定時，別人常來找我商量",
+            "is_reversed": false,
+            "scoring_method": "normal"
+        },
+        {
+            "id": 133,
+            "text": "與安穩平淡的生活相比，我寧願過變動起伏而能獲得各種情感體驗的生活",
+            "is_reversed": false,
+            "scoring_method": "normal"
+        },
+        {
+            "id": 134,
+            "text": "有時候，我的一些做法使別人認為我有些自私或自我中心",
+            "is_reversed": false,
+            "scoring_method": "normal"
+        },
+        {
+            "id": 135,
+            "text": "當我作出承諾後，我總是能夠照著去做",
+            "is_reversed": false,
+            "scoring_method": "normal"
+        },
+        {
+            "id": 136,
+            "text": "有好幾次我羞愧得只想躲起來",
+            "is_reversed": false,
+            "scoring_method": "normal"
+        },
+        {
+            "id": 137,
+            "text": "我做事較慢但穩重",
+            "is_reversed": false,
+            "scoring_method": "normal"
+        },
+        {
+            "id": 138,
+            "text": "我更願意在我所熟悉的環境中生活",
+            "is_reversed": false,
+            "scoring_method": "normal"
+        },
+        {
+            "id": 139,
+            "text": "我情願與他人合作而不願與他們競爭",
+            "is_reversed": false,
+            "scoring_method": "normal"
+        },
+        {
+            "id": 140,
+            "text": "我並不覺得我在極力驅使自己幹出一番事業",
+            "is_reversed": false,
+            "scoring_method": "normal"
+        },
+        {
+            "id": 141,
+            "text": "我不介意能否\"立即\"得到我想要的東西",
+            "is_reversed": false,
+            "scoring_method": "normal"
+        },
+        {
+            "id": 142,
+            "text": "我常常尋求刺激",
+            "is_reversed": false,
+            "scoring_method": "normal"
+        },
+        {
+            "id": 143,
+            "text": "我喜歡解决問題或猜謎",
+            "is_reversed": false,
+            "scoring_method": "normal"
+        },
+        {
+            "id": 144,
+            "text": "我對自己有很高的評價",
+            "is_reversed": false,
+            "scoring_method": "normal"
+        },
+        {
+            "id": 145,
+            "text": "我是一個總是能夠將事情辦妥和有工作成效的人",
+            "is_reversed": false,
+            "scoring_method": "normal"
+        },
+        {
+            "id": 146,
+            "text": "我常常覺得難以拿定主意",
+            "is_reversed": false,
+            "scoring_method": "normal"
+        },
+        {
+            "id": 147,
+            "text": "我並不覺得自己特別輕鬆愉快和樂觀開朗",
+            "is_reversed": false,
+            "scoring_method": "normal"
+        },
+        {
+            "id": 148,
+            "text": "我認為嚴格的紀律使小孩形成遵守規矩的品質比讓他們自己形成獨立判斷和行事的能力更為重要",
+            "is_reversed": false,
+            "scoring_method": "normal"
+        },
+        {
+            "id": 149,
+            "text": "我常留戀以前那種人們之間人情味很濃的生活",
+            "is_reversed": false,
+            "scoring_method": "normal"
+        },
+        {
+            "id": 150,
+            "text": "有時，我是先做了再想",
+            "is_reversed": false,
+            "scoring_method": "normal"
+        },
+        {
+            "id": 151,
+            "text": "我常感到緊張和心神不定",
+            "is_reversed": false,
+            "scoring_method": "normal"
+        },
+        {
+            "id": 152,
+            "text": "我感到對陌生人微笑和與之交往是一件很容易的事情",
+            "is_reversed": false,
+            "scoring_method": "normal"
+        },
+        {
+            "id": 153,
+            "text": "當我發現自己在想入非非時，通常會使自己變得忙碌或開始將注意力集中在某些工作或活動上",
+            "is_reversed": false,
+            "scoring_method": "normal"
+        },
+        {
+            "id": 154,
+            "text": "我的第一反應是信任別人",
+            "is_reversed": false,
+            "scoring_method": "normal"
+        },
+        {
+            "id": 155,
+            "text": "我常常遇到準備不充分的情况",
+            "is_reversed": false,
+            "scoring_method": "normal"
+        },
+        {
+            "id": 156,
+            "text": "別人並不認為我是一個易怒或易發脾氣的人",
+            "is_reversed": false,
+            "scoring_method": "normal"
+        },
+        {
+            "id": 157,
+            "text": "如果要我選擇，我更願去人多的海灘而不願去森林中單獨的小屋中渡假",
+            "is_reversed": false,
+            "scoring_method": "normal"
+        },
+        {
+            "id": 158,
+            "text": "有些音樂總是使我十分著迷",
+            "is_reversed": false,
+            "scoring_method": "normal"
+        },
+        {
+            "id": 159,
+            "text": "有時我會欺騙別人做我想做的事",
+            "is_reversed": false,
+            "scoring_method": "normal"
+        },
+        {
+            "id": 160,
+            "text": "我對於事情該如何做會很是挑剔、苛求",
+            "is_reversed": false,
+            "scoring_method": "normal"
+        },
+        {
+            "id": 161,
+            "text": "我對自己的評價很低",
+            "is_reversed": false,
+            "scoring_method": "normal"
+        },
+        {
+            "id": 162,
+            "text": "我寧願我行我素也不願成為別人的領導",
+            "is_reversed": false,
+            "scoring_method": "normal"
+        },
+        {
+            "id": 163,
+            "text": "我很少注意不同處境對我的心境或感受的影響",
+            "is_reversed": false,
+            "scoring_method": "normal"
+        },
+        {
+            "id": 164,
+            "text": "大多數人認為我是很幫忙的",
+            "is_reversed": false,
+            "scoring_method": "normal"
+        },
+        {
+            "id": 165,
+            "text": "我嚴格遵循我的道德準則做事",
+            "is_reversed": false,
+            "scoring_method": "normal"
+        },
+        {
+            "id": 166,
+            "text": "我在社交場合很少感到不自在",
+            "is_reversed": false,
+            "scoring_method": "normal"
+        },
+        {
+            "id": 167,
+            "text": "我似乎總是匆匆忙忙的",
+            "is_reversed": false,
+            "scoring_method": "normal"
+        },
+        {
+            "id": 168,
+            "text": "我覺得學習和培養新愛好是很有趣的",
+            "is_reversed": false,
+            "scoring_method": "normal"
+        },
+        {
+            "id": 169,
+            "text": "在有必要時，我會說出一些諷刺挖苦和尖酸刻薄的話來",
+            "is_reversed": false,
+            "scoring_method": "normal"
+        },
+        {
+            "id": 170,
+            "text": "我有明確的目標，並能有條不紊地朝向它而工作",
+            "is_reversed": false,
+            "scoring_method": "normal"
+        },
+        {
+            "id": 171,
+            "text": "當有我愛吃的食物時，我會吃得太多",
+            "is_reversed": false,
+            "scoring_method": "normal"
+        },
+        {
+            "id": 172,
+            "text": "有時，我做某些事情只是為了尋求“刺激”和“冒險”",
+            "is_reversed": false,
+            "scoring_method": "normal"
+        },
+        {
+            "id": 173,
+            "text": "當別人談論抽象的、理論性的事情時，有時我會感到乏味",
+            "is_reversed": false,
+            "scoring_method": "normal"
+        },
+        {
+            "id": 174,
+            "text": "我儘量謙卑恭順",
+            "is_reversed": false,
+            "scoring_method": "normal"
+        },
+        {
+            "id": 175,
+            "text": "當一項工作太難時，我寧願開始一項新的",
+            "is_reversed": false,
+            "scoring_method": "normal"
+        },
+        {
+            "id": 176,
+            "text": "在遇到危機時，我覺得我能很好地控制自己",
+            "is_reversed": false,
+            "scoring_method": "normal"
+        },
+        {
+            "id": 177,
+            "text": "我是一個快樂、生氣勃勃的人",
+            "is_reversed": false,
+            "scoring_method": "normal"
+        },
+        {
+            "id": 178,
+            "text": "我認為其他社會的人可能有與我們不同的是非觀念，他們認為不正確的觀念，對我們而言可能是正確的",
+            "is_reversed": false,
+            "scoring_method": "normal"
+        },
+        {
+            "id": 179,
+            "text": "我認為全人類都值得尊重",
+            "is_reversed": false,
+            "scoring_method": "normal"
+        },
+        {
+            "id": 180,
+            "text": "我在做出一個决定之前要進行周詳的考慮",
+            "is_reversed": false,
+            "scoring_method": "normal"
+        },
+        {
+            "id": 181,
+            "text": "我所懼怕的事較大部分人要少",
+            "is_reversed": false,
+            "scoring_method": "normal"
+        },
+        {
+            "id": 182,
+            "text": "別人認為我是一個熱情和友善的人",
+            "is_reversed": false,
+            "scoring_method": "normal"
+        },
+        {
+            "id": 183,
+            "text": "我小時候很少玩”角色扮演”類的游戲（如兒童時的”煮飯仔”）",
+            "is_reversed": false,
+            "scoring_method": "normal"
+        },
+        {
+            "id": 184,
+            "text": "我認為大部分與我交往的人都是誠實可信的",
+            "is_reversed": false,
+            "scoring_method": "normal"
+        },
+        {
+            "id": 185,
+            "text": "我是一個很能幹的人",
+            "is_reversed": false,
+            "scoring_method": "normal"
+        },
+        {
+            "id": 186,
+            "text": "我有時感到怨恨",
+            "is_reversed": false,
+            "scoring_method": "normal"
+        },
+        {
+            "id": 187,
+            "text": "我對大家聚在一起的場合感到乏味",
+            "is_reversed": false,
+            "scoring_method": "normal"
+        },
+        {
+            "id": 188,
+            "text": "我深感藝術和自然所呈現出的各種格調和姿態奇妙有趣",
+            "is_reversed": false,
+            "scoring_method": "normal"
+        },
+        {
+            "id": 189,
+            "text": "我認為絕對誠實是一種很差的做生意的方法",
+            "is_reversed": false,
+            "scoring_method": "normal"
+        },
+        {
+            "id": 190,
+            "text": "我不願提前計劃好， 以便留有選擇餘地",
+            "is_reversed": false,
+            "scoring_method": "normal"
+        },
+        {
+            "id": 191,
+            "text": "有時候我感到事情暗淡無望",
+            "is_reversed": false,
+            "scoring_method": "normal"
+        },
+        {
+            "id": 192,
+            "text": "與別人談話時，大部分時間都是我在講話",
+            "is_reversed": false,
+            "scoring_method": "normal"
+        },
+        {
+            "id": 193,
+            "text": "我很容易為別人設身處地著想",
+            "is_reversed": false,
+            "scoring_method": "normal"
+        },
+        {
+            "id": 194,
+            "text": "我認為我是一個樂善好施的人",
+            "is_reversed": false,
+            "scoring_method": "normal"
+        },
+        {
+            "id": 195,
+            "text": "我做事儘量認真細緻，以免重做",
+            "is_reversed": false,
+            "scoring_method": "normal"
+        },
+        {
+            "id": 196,
+            "text": "如果我對別人說錯了話或做錯了事，我感到難以再次面對他們",
+            "is_reversed": false,
+            "scoring_method": "normal"
+        },
+        {
+            "id": 197,
+            "text": "我總是需要忙碌",
+            "is_reversed": false,
+            "scoring_method": "normal"
+        },
+        {
+            "id": 198,
+            "text": "一旦我找到了做某件事的恰當方法，我便會一直照這種方法做下去",
+            "is_reversed": false,
+            "scoring_method": "normal"
+        },
+        {
+            "id": 199,
+            "text": "如果我不喜歡某人，我便會讓對方知道",
+            "is_reversed": false,
+            "scoring_method": "normal"
+        },
+        {
+            "id": 200,
+            "text": "我儘量將我所幹的一切事情都幹得出色",
+            "is_reversed": false,
+            "scoring_method": "normal"
+        },
+        {
+            "id": 201,
+            "text": "有時我會因一時衝動而做一些令我後悔的事情",
+            "is_reversed": false,
+            "scoring_method": "normal"
+        },
+        {
+            "id": 202,
+            "text": "鮮艶的色彩和華麗的款式對我具有吸引力",
+            "is_reversed": false,
+            "scoring_method": "normal"
+        },
+        {
+            "id": 203,
+            "text": "我有很强的求知欲望",
+            "is_reversed": false,
+            "scoring_method": "normal"
+        },
+        {
+            "id": 204,
+            "text": "較之被人稱贊，我更願意稱贊別人",
+            "is_reversed": false,
+            "scoring_method": "normal"
+        },
+        {
+            "id": 205,
+            "text": "我總要浪費不少時間才能正式開始工作",
+            "is_reversed": false,
+            "scoring_method": "normal"
+        },
+        {
+            "id": 206,
+            "text": "當所有的事情好像都一團糟時，我仍能作出正確的决定",
+            "is_reversed": false,
+            "scoring_method": "normal"
+        },
+        {
+            "id": 207,
+            "text": "我不是一個樂觀主義者",
+            "is_reversed": false,
+            "scoring_method": "normal"
+        },
+        {
+            "id": 208,
+            "text": "我對別人與我有不同的習慣有些看不順眼",
+            "is_reversed": false,
+            "scoring_method": "normal"
+        },
+        {
+            "id": 209,
+            "text": "我對不如我幸運的那些人感到同情",
+            "is_reversed": false,
+            "scoring_method": "normal"
+        },
+        {
+            "id": 210,
+            "text": "旅行之前我會仔細做好計劃",
+            "is_reversed": false,
+            "scoring_method": "normal"
+        },
+        {
+            "id": 211,
+            "text": "有時候我的腦中會出現一些可怕的念頭",
+            "is_reversed": false,
+            "scoring_method": "normal"
+        },
+        {
+            "id": 212,
+            "text": "我時常關心與我一起工作的人們的生活情况",
+            "is_reversed": false,
+            "scoring_method": "normal"
+        },
+        {
+            "id": 213,
+            "text": "我不喜歡將時間浪費在白日夢中",
+            "is_reversed": false,
+            "scoring_method": "normal"
+        },
+        {
+            "id": 214,
+            "text": "儘管人類社會存在著一些陰暗的東西（如戰爭、罪惡、欺詐），我仍相信人性總括來說是善良的",
+            "is_reversed": false,
+            "scoring_method": "normal"
+        },
+        {
+            "id": 215,
+            "text": "我以辦事情慎重穩妥和合乎常理而為人所知",
+            "is_reversed": false,
+            "scoring_method": "normal"
+        },
+        {
+            "id": 216,
+            "text": "即使是小小的煩惱事也會使我感到受挫",
+            "is_reversed": false,
+            "scoring_method": "normal"
+        },
+        {
+            "id": 217,
+            "text": "如果我自己長期獨處，真的會覺得需要別人陪伴",
+            "is_reversed": false,
+            "scoring_method": "normal"
+        },
+        {
+            "id": 218,
+            "text": "與故事性的詩歌相比，我更喜歡那些强調情感與意象的詩歌",
+            "is_reversed": false,
+            "scoring_method": "normal"
+        },
+        {
+            "id": 219,
+            "text": "我為自己與人打交道時精於人情世故而感到得意",
+            "is_reversed": false,
+            "scoring_method": "normal"
+        },
+        {
+            "id": 220,
+            "text": "我花許多時間尋找我放錯地方的東西",
+            "is_reversed": false,
+            "scoring_method": "normal"
+        },
+        {
+            "id": 221,
+            "text": "我有時會深感內疚或有一種負罪感",
+            "is_reversed": false,
+            "scoring_method": "normal"
+        },
+        {
+            "id": 222,
+            "text": "我有時沒有盡我所能地堅持自己的權利",
+            "is_reversed": false,
+            "scoring_method": "normal"
+        },
+        {
+            "id": 223,
+            "text": "與物質生活本身相比，我更注重生活的情調與情趣",
+            "is_reversed": false,
+            "scoring_method": "normal"
+        },
+        {
+            "id": 224,
+            "text": "當別人有需要時，我都會嘗試提供恊助",
+            "is_reversed": false,
+            "scoring_method": "normal"
+        },
+        {
+            "id": 225,
+            "text": "我盡心盡力地執行一切分派給我的任務",
+            "is_reversed": false,
+            "scoring_method": "normal"
+        },
+        {
+            "id": 226,
+            "text": "我經常感到自己不如別人",
+            "is_reversed": false,
+            "scoring_method": "normal"
+        },
+        {
+            "id": 227,
+            "text": "我常常感到精力旺盛",
+            "is_reversed": false,
+            "scoring_method": "normal"
+        },
+        {
+            "id": 228,
+            "text": "我會沿著慣常的路去某個地方",
+            "is_reversed": false,
+            "scoring_method": "normal"
+        },
+        {
+            "id": 229,
+            "text": "我可以是愛爭論的",
+            "is_reversed": false,
+            "scoring_method": "normal"
+        },
+        {
+            "id": 230,
+            "text": "我像一個“工作狂”",
+            "is_reversed": false,
+            "scoring_method": "normal"
+        },
+        {
+            "id": 231,
+            "text": "我向來能夠控制自己的衝動",
+            "is_reversed": false,
+            "scoring_method": "normal"
+        },
+        {
+            "id": 232,
+            "text": "我喜歡成為從事某種體育或健身項目群體中的一員",
+            "is_reversed": false,
+            "scoring_method": "normal"
+        },
+        {
+            "id": 233,
+            "text": "我對腦力活動或知識方面的事情有廣泛的興趣",
+            "is_reversed": false,
+            "scoring_method": "normal"
+        },
+        {
+            "id": 234,
+            "text": "我認為我是一個優越的人",
+            "is_reversed": false,
+            "scoring_method": "normal"
+        },
+        {
+            "id": 235,
+            "text": "我很有自律性",
+            "is_reversed": false,
+            "scoring_method": "normal"
+        },
+        {
+            "id": 236,
+            "text": "我覺得我有能力應付我所遇到的大部分問題",
+            "is_reversed": false,
+            "scoring_method": "normal"
+        },
+        {
+            "id": 237,
+            "text": "我容易發笑",
+            "is_reversed": false,
+            "scoring_method": "normal"
+        },
+        {
+            "id": 238,
+            "text": "我認為對一些歷史名人的作用的爭論只會混淆人們的思想",
+            "is_reversed": false,
+            "scoring_method": "normal"
+        },
+        {
+            "id": 239,
+            "text": "與“公正”相比，我更願意別人覺得我“仁”",
+            "is_reversed": false,
+            "scoring_method": "normal"
+        },
+        {
+            "id": 240,
+            "text": "回答問題之前，我總要再三思考",
+            "is_reversed": false,
+            "scoring_method": "normal"
+        }
+    ],
+    "dimension_mapping": {
+        "1": "神經質",
+        "2": "神經質",
+        "3": "神經質",
+        "4": "神經質",
+        "5": "神經質",
+        "6": "神經質",
+        "7": "神經質",
+        "8": "神經質",
+        "9": "神經質",
+        "10": "神經質",
+        "11": "神經質",
+        "12": "神經質",
+        "13": "神經質",
+        "14": "神經質",
+        "15": "神經質",
+        "16": "神經質",
+        "17": "神經質",
+        "18": "神經質",
+        "19": "神經質",
+        "20": "神經質",
+        "21": "神經質",
+        "22": "神經質",
+        "23": "神經質",
+        "24": "神經質",
+        "25": "神經質",
+        "26": "神經質",
+        "27": "神經質",
+        "28": "神經質",
+        "29": "神經質",
+        "30": "神經質",
+        "31": "神經質",
+        "32": "神經質",
+        "33": "神經質",
+        "34": "神經質",
+        "35": "神經質",
+        "36": "神經質",
+        "37": "神經質",
+        "38": "神經質",
+        "39": "神經質",
+        "40": "神經質",
+        "41": "神經質",
+        "42": "神經質",
+        "43": "神經質",
+        "44": "神經質",
+        "45": "神經質",
+        "46": "神經質",
+        "47": "神經質",
+        "48": "神經質",
+        "49": "外傾性",
+        "50": "外傾性",
+        "51": "外傾性",
+        "52": "外傾性",
+        "53": "外傾性",
+        "54": "外傾性",
+        "55": "外傾性",
+        "56": "外傾性",
+        "57": "外傾性",
+        "58": "外傾性",
+        "59": "外傾性",
+        "60": "外傾性",
+        "61": "外傾性",
+        "62": "外傾性",
+        "63": "外傾性",
+        "64": "外傾性",
+        "65": "外傾性",
+        "66": "外傾性",
+        "67": "外傾性",
+        "68": "外傾性",
+        "69": "外傾性",
+        "70": "外傾性",
+        "71": "外傾性",
+        "72": "外傾性",
+        "73": "外傾性",
+        "74": "外傾性",
+        "75": "外傾性",
+        "76": "外傾性",
+        "77": "外傾性",
+        "78": "外傾性",
+        "79": "外傾性",
+        "80": "外傾性",
+        "81": "外傾性",
+        "82": "外傾性",
+        "83": "外傾性",
+        "84": "外傾性",
+        "85": "外傾性",
+        "86": "外傾性",
+        "87": "外傾性",
+        "88": "外傾性",
+        "89": "外傾性",
+        "90": "外傾性",
+        "91": "外傾性",
+        "92": "外傾性",
+        "93": "外傾性",
+        "94": "外傾性",
+        "95": "外傾性",
+        "96": "外傾性",
+        "97": "開放性",
+        "98": "開放性",
+        "99": "開放性",
+        "100": "開放性",
+        "101": "開放性",
+        "102": "開放性",
+        "103": "開放性",
+        "104": "開放性",
+        "105": "開放性",
+        "106": "開放性",
+        "107": "開放性",
+        "108": "開放性",
+        "109": "開放性",
+        "110": "開放性",
+        "111": "開放性",
+        "112": "開放性",
+        "113": "開放性",
+        "114": "開放性",
+        "115": "開放性",
+        "116": "開放性",
+        "117": "開放性",
+        "118": "開放性",
+        "119": "開放性",
+        "120": "開放性",
+        "121": "開放性",
+        "122": "開放性",
+        "123": "開放性",
+        "124": "開放性",
+        "125": "開放性",
+        "126": "開放性",
+        "127": "開放性",
+        "128": "開放性",
+        "129": "開放性",
+        "130": "開放性",
+        "131": "開放性",
+        "132": "開放性",
+        "133": "開放性",
+        "134": "開放性",
+        "135": "開放性",
+        "136": "開放性",
+        "137": "開放性",
+        "138": "開放性",
+        "139": "開放性",
+        "140": "開放性",
+        "141": "開放性",
+        "142": "開放性",
+        "143": "開放性",
+        "144": "開放性",
+        "145": "宜人性",
+        "146": "宜人性",
+        "147": "宜人性",
+        "148": "宜人性",
+        "149": "宜人性",
+        "150": "宜人性",
+        "151": "宜人性",
+        "152": "宜人性",
+        "153": "宜人性",
+        "154": "宜人性",
+        "155": "宜人性",
+        "156": "宜人性",
+        "157": "宜人性",
+        "158": "宜人性",
+        "159": "宜人性",
+        "160": "宜人性",
+        "161": "宜人性",
+        "162": "宜人性",
+        "163": "宜人性",
+        "164": "宜人性",
+        "165": "宜人性",
+        "166": "宜人性",
+        "167": "宜人性",
+        "168": "宜人性",
+        "169": "宜人性",
+        "170": "宜人性",
+        "171": "宜人性",
+        "172": "宜人性",
+        "173": "宜人性",
+        "174": "宜人性",
+        "175": "宜人性",
+        "176": "宜人性",
+        "177": "宜人性",
+        "178": "宜人性",
+        "179": "宜人性",
+        "180": "宜人性",
+        "181": "宜人性",
+        "182": "宜人性",
+        "183": "宜人性",
+        "184": "宜人性",
+        "185": "宜人性",
+        "186": "宜人性",
+        "187": "宜人性",
+        "188": "宜人性",
+        "189": "宜人性",
+        "190": "宜人性",
+        "191": "宜人性",
+        "192": "宜人性",
+        "193": "盡責性",
+        "194": "盡責性",
+        "195": "盡責性",
+        "196": "盡責性",
+        "197": "盡責性",
+        "198": "盡責性",
+        "199": "盡責性",
+        "200": "盡責性",
+        "201": "盡責性",
+        "202": "盡責性",
+        "203": "盡責性",
+        "204": "盡責性",
+        "205": "盡責性",
+        "206": "盡責性",
+        "207": "盡責性",
+        "208": "盡責性",
+        "209": "盡責性",
+        "210": "盡責性",
+        "211": "盡責性",
+        "212": "盡責性",
+        "213": "盡責性",
+        "214": "盡責性",
+        "215": "盡責性",
+        "216": "盡責性",
+        "217": "盡責性",
+        "218": "盡責性",
+        "219": "盡責性",
+        "220": "盡責性",
+        "221": "盡責性",
+        "222": "盡責性",
+        "223": "盡責性",
+        "224": "盡責性",
+        "225": "盡責性",
+        "226": "盡責性",
+        "227": "盡責性",
+        "228": "盡責性",
+        "229": "盡責性",
+        "230": "盡責性",
+        "231": "盡責性",
+        "232": "盡責性",
+        "233": "盡責性",
+        "234": "盡責性",
+        "235": "盡責性",
+        "236": "盡責性",
+        "237": "盡責性",
+        "238": "盡責性",
+        "239": "盡責性",
+        "240": "盡責性"
+    }
+}

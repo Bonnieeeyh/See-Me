@@ -76,8 +76,12 @@ WSGI_APPLICATION = 'seemePro.wsgi.application'
 
 DATABASES = {
     'default': {
-        'ENGINE': 'django.db.backends.sqlite3',
-        'NAME': BASE_DIR / 'db.sqlite3',
+        'ENGINE': 'django.db.backends.postgresql',
+        'NAME': 'seeme_db',
+        'USER': 'seeme_user',
+        'PASSWORD': 'seeme_pass',
+        'HOST': 'localhost',
+        'PORT': '5432',
     }
 }
 

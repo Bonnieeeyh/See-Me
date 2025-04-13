@@ -1,0 +1,30 @@
+{% extends "seemeApp/base.html" %}
+{% block title %}我的個人檔案{% endblock %}
+{% block content %}
+<div class="container">
+  <h1 class="text-center mb-4">我的個人檔案</h1>
+  <div class="mb-3">
+    <p><strong>用戶名稱：</strong>{{ user.username }}</p>
+    <p><strong>電子郵件：</strong>{{ user.email }}</p>
+    <p><strong>姓名：</strong>{{ user.first_name }} {{ user.last_name }}</p>
+  </div>
+  <div class="mb-4 text-center">
+    <a href="{% url 'profile_edit' %}" class="btn btn-secondary me-2">修改個人資料</a>
+    <a href="{% url 'logout' %}" class="btn btn-danger">登出</a>
+  </div>
+  <hr>
+  <h2 class="mb-3">我的測試報告</h2>
+  {% if test_result %}
+    <div class="mb-3">
+      <p><strong>上次測試日期：</strong>{{ test_result.created_at|date:"Y-m-d H:i:s" }}</p>
+    </div>
+    <div class="mb-3">
+      <a href="{% url 'test_form' %}" class="btn btn-primary me-2">重新作答，更新報告</a>
+      <a href="{% url 'report_detail' %}" class="btn btn-outline-primary">查看詳細報告</a>
+    </div>
+  {% else %}
+    <p class="mb-3 text-danger">您尚未進行測試，請先完成個人測試。</p>
+    <a href="{% url 'test_form' %}" class="btn btn-primary">進行測試</a>
+  {% endif %}
+</div>
+{% endblock %}
